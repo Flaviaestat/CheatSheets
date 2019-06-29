@@ -1,0 +1,7 @@
+Level of significance: It is the probability of making a wrong decision. 
+In the above hypothesis statement, null hypothesis indicates no difference between sample and population mean. 
+Say there’s a 5% risk of rejecting the null hypothesis when there is no difference between the sample and population mean. 
+This risk or probability of rejecting the null hypothesis when it’s true is called level of significance.
+
+The term significance level (alpha) is used to refer to a pre-chosen probability and the term "P value" is used to indicate a 
+probability that you calculate after a given study
